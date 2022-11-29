@@ -74,10 +74,14 @@ print("RMSE = ",rmse)
 ## OUTPUT:
 
 ![ml4](https://user-images.githubusercontent.com/94222288/200177597-e6ff825e-710a-40ec-842d-50233234b4d3.png)
+
 ![mlh](https://user-images.githubusercontent.com/94222288/203804680-9b787e90-79ac-4ddf-a9d8-ec03b8b88ad2.png)
+
 ![mlt](https://user-images.githubusercontent.com/94222288/203804727-227f8f8c-d13f-4904-9a3e-df48a2f8e84f.png)
 
+
 ![ml5](https://user-images.githubusercontent.com/94222288/200177609-a5c4987a-11fa-4426-92a8-aced68c0eb61.png)
+
 ![ml7](https://user-images.githubusercontent.com/94222288/200177616-98277779-5896-480e-b9ca-702efb43b4de.png)
 
 
